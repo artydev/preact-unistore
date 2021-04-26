@@ -1,0 +1,17 @@
+{
+  "name": "infoprod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "preact": "^10.5.13",
+    "snowpack": "^3.3.5",
+    "unistore": "^3.5.2"
+  }
+}
